@@ -1,0 +1,1 @@
+export const GET_SOCKET_MESSAGE = "GET_SOCKET_MESSAGE";
